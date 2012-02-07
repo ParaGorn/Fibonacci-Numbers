@@ -3,3 +3,6 @@ To be clear, the title is not so much a command as a gentle suggestion.
 This directory is devoted to the fibonacci sequence. Simple? Yes. Simple-minded? Maybe.
 
 In an attempt to make things work, certain strands of code may or may not be entirely cross-system.
+
+
+Also, every attempt will most likely be using Python as it handles large numbers exceptionally well. Also, it will, for the time being, be Python 2.x code as opposed to Python 3.x.
